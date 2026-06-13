@@ -20,4 +20,4 @@ Website informasi publik yang dibuat saat program KKN untuk mempermudah administ
 
 ## 📫 Hubungi Saya
 - Email: umann11002@gmail.com
-- LinkedIn: linkedin.com/in/nerizaelmi/ (Sori bro, link linkedin cewek lo bawaan tadi, ganti pake username linkedin lo ya!)
+- LinkedIn:linkedin.com/in/muhammad-luqmann10
