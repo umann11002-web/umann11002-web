@@ -20,4 +20,4 @@ Website informasi publik yang dibuat saat program KKN untuk mempermudah administ
 
 ## 📫 Hubungi Saya
 - Email: umann11002@gmail.com
-- LinkedIn:linkedin.com/in/muhammad-luqmann10
+- LinkedIn: linkedin.com/in/muhammad-luqmann10
