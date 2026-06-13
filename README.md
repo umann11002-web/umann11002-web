@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo, Saya Muhammad Luqman 👋
 
-<!--
-**umann11002-web/umann11002-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Teknik Informatika di Universitas Muhammadiyah Bandung yang fokus di bidang Web & Mobile Development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, PHP, Dart
+- **Frameworks & Tech:** Flutter, Firebase, MySQL, Laravel
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyek Unggulan
+### 1. SportySpace - Aplikasi Pemesanan Lapangan Olahraga
+Aplikasi mobile berbasis Flutter dan Firebase untuk manajemen booking lapangan.
+- **Fitur:** Autentikasi, data booking real-time, integrasi database cloud.
+- [Lihat Repositori](https://github.com/umann11002-web/sportyspace)
+
+### 2. Website Informasi RW 16 Cibabat
+Website informasi publik yang dibuat saat program KKN untuk mempermudah administrasi warga.
+- **Tech Stack:** HTML, CSS, PHP, MySQL.
+- [Lihat Repositori](https://github.com/umann11002-web/Webrw16)
+
+## 📫 Hubungi Saya
+- Email: umann11002@gmail.com
+- LinkedIn: linkedin.com/in/nerizaelmi/ (Sori bro, link linkedin cewek lo bawaan tadi, ganti pake username linkedin lo ya!)
